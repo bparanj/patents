@@ -1,4 +1,3 @@
-```markdown
 # CyberShu
 
 **CyberShu** is an open-source project that combines the systematic problem-solving methodology of TRIZ with AI to analyze cybersecurity patents. By automating the analysis of contradictions, resolutions, and trends, CyberShu aims to uncover hidden insights in the realm of cybersecurity threat detection.
