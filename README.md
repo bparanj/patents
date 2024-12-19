@@ -82,4 +82,3 @@ For questions or collaboration:
 ## **Acknowledgments**
 - Inspired by Genrich Altshuller’s TRIZ methodology.
 - Special thanks to the open-source community for tools and datasets that power this project.
-```
