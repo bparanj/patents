@@ -83,11 +83,3 @@ For questions or collaboration:
 - Inspired by Genrich Altshuller’s TRIZ methodology.
 - Special thanks to the open-source community for tools and datasets that power this project.
 ```
-
----
-
-### **Next Steps**
-1. **Initialize the Repository**: Create the directory structure and upload this `README.md`.
-2. **Add a License**: Include an open-source license like MIT or Apache 2.0.
-3. **Start Development**: Begin adding scripts, datasets, and notebooks incrementally.
-4. **Promote the Project**: Share the link on GitHub and social media to attract contributors.
