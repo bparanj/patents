@@ -31,7 +31,7 @@
 
 ## **Getting Started**
 ### **Prerequisites**
-- Python 3.8+
+- Python 3.10+
 - Required Libraries:
   ```bash
   pip install pandas numpy nltk spacy gensim transformers faiss-cpu bertopic matplotlib plotly scikit-learn
@@ -74,7 +74,7 @@ This project is licensed under the MIT License. See [LICENSE.md](docs/LICENSE.md
 
 ## **Contact**
 For questions or collaboration:
-- Email: your-email@example.com
+- Email: bparanj@zepho.com
 - GitHub Issues: [CyberShu Issues](https://github.com/yourusername/CyberShu/issues)
 
 ---
@@ -91,5 +91,3 @@ For questions or collaboration:
 2. **Add a License**: Include an open-source license like MIT or Apache 2.0.
 3. **Start Development**: Begin adding scripts, datasets, and notebooks incrementally.
 4. **Promote the Project**: Share the link on GitHub and social media to attract contributors.
-
-Let me know if you'd like more details on any section!
